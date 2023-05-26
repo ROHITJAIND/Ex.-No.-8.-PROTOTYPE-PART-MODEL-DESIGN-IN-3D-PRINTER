@@ -1,12 +1,9 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-## DATE: 
+## DATE:
 ## AIM: 
 To prototype the given part model design in 3D Printer.
 ## REQUIREMENTS:
-- 3D Printer machine.  
-- CURA 4.0 Software.  
-- Autodesk Fusion 360 Software.  
-- System - Windows 7 or higher, 1 GB RAM    
+- 3D Printer machine,CURA 4.0 Software,Autodesk Fusion 360 Software,System - Windows 7 or higher, 1 GB RAM.
 ## PROCEDURE:
 Step 1:- Check all Electrical connections.  
 Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.  
